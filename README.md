@@ -44,9 +44,5 @@ This repository contains various projects that utilize advanced techniques such 
 - **Description**: A project that focuses on training the FastSAM (Fast Segment Anything Model) using a custom dataset for specialized image segmentation tasks.
 - **Directory**: `TrainFastSAM/CustomDataSet/`
 
----
 
-## Repository Structure
-
-The project repository is organized into the following structure:
 
